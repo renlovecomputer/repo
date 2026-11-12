@@ -10,10 +10,10 @@ MD5sum: c178a567cb74b32aec1759c203806fec
 SHA1: efea65e308f90773ac933461ad17a5cf92fc1016
 SHA256: dc46624fc636fa2419ad5f99a37df7e95e17ba48a5b4a58cc3c44fb204311a6c
 Section: Tweaks
-Homepage: https://renlovecomputer.github.io/My_repository/
+Homepage: https://renlovecomputer.github.io/repo/
 Description: Shake your iPhone to release Home Screen icons into gravity and tilt-controlled physics. Includes Battery Saving and Normal modes. Tested only on iOS 16.7.16; other configurations are unverified.
 Author: renlovecomputer
-Depiction: https://renlovecomputer.github.io/My_repository/depictions/com.demiany.graviapps.html
+Depiction: https://renlovecomputer.github.io/repo/depictions/com.demiany.graviapps.html
 Icon: https://renlovecomputer.github.io/repo/GraviLogo.png
 Name: GraviApps
 
@@ -28,10 +28,10 @@ MD5sum: af35a47a7a64a7fa36088a6de6b80c52
 SHA1: 12944dbf1c309415ea22ce246328b8db28ca2c18
 SHA256: 0f3927a87c6bf7f028c04930667b6e6d37261d7c920d6fdc135b191171ac6ec1
 Section: Tweaks
-Homepage: https://renlovecomputer.github.io/My_repository/
+Homepage: https://renlovecomputer.github.io/repo/
 Description: Custom image-based Lock Screen clock with 11 glyph slots, Photos/Files import, optional GIF animation, scaling and tint. Tested only on iOS 16.7.16; other configurations are unverified.
 Author: renlovecomputer
-Depiction: https://renlovecomputer.github.io/My_repository/depictions/com.glyphtime.tweak.html
+Depiction: https://renlovecomputer.github.io/repo/depictions/com.glyphtime.tweak.html
 Icon: https://renlovecomputer.github.io/repo/GlyphTimeLogo.png
 Name: GlyphTime
 
