@@ -1,0 +1,37 @@
+Package: com.demiany.graviapps
+Version: 1.0.0-8
+Architecture: iphoneos-arm64
+Maintainer: renlovecomputer
+Installed-Size: 268
+Depends: mobilesubstrate, preferenceloader
+Filename: pool/main/com.demiany.graviapps_1.0.0-8_iphoneos-arm64.deb
+Size: 44708
+MD5sum: c178a567cb74b32aec1759c203806fec
+SHA1: efea65e308f90773ac933461ad17a5cf92fc1016
+SHA256: dc46624fc636fa2419ad5f99a37df7e95e17ba48a5b4a58cc3c44fb204311a6c
+Section: Tweaks
+Homepage: https://renlovecomputer.github.io/My_repository/
+Description: Shake your iPhone to release Home Screen icons into gravity and tilt-controlled physics. Includes Battery Saving and Normal modes. Tested only on iOS 16.7.16; other configurations are unverified.
+Author: renlovecomputer
+Depiction: https://renlovecomputer.github.io/My_repository/depictions/com.demiany.graviapps.html
+Icon: https://renlovecomputer.github.io/My_repository/CydiaIcon.png
+Name: GraviApps
+
+Package: com.glyphtime.tweak
+Version: 1.1.8
+Architecture: iphoneos-arm64
+Maintainer: renlovecomputer
+Depends: firmware (>= 16.0), preferenceloader
+Filename: pool/main/com.glyphtime.tweak_1.1.8_iphoneos-arm64.deb
+Size: 65704
+MD5sum: af35a47a7a64a7fa36088a6de6b80c52
+SHA1: 12944dbf1c309415ea22ce246328b8db28ca2c18
+SHA256: 0f3927a87c6bf7f028c04930667b6e6d37261d7c920d6fdc135b191171ac6ec1
+Section: Tweaks
+Homepage: https://renlovecomputer.github.io/My_repository/
+Description: Custom image-based Lock Screen clock with 11 glyph slots, Photos/Files import, optional GIF animation, scaling and tint. Tested only on iOS 16.7.16; other configurations are unverified.
+Author: renlovecomputer
+Depiction: https://renlovecomputer.github.io/My_repository/depictions/com.glyphtime.tweak.html
+Icon: https://renlovecomputer.github.io/My_repository/CydiaIcon.png
+Name: GlyphTime
+

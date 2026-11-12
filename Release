@@ -1,0 +1,23 @@
+Origin: renlovecomputer
+Label: My_repository
+Suite: stable
+Codename: stable
+Architectures: iphoneos-arm64
+Components: main
+Description: Personal Sileo repository by renlovecomputer. Tweaks tested only on iOS 16.7.16.
+Date: Thu, 12 Nov 2026 17:58:25 +0000
+MD5Sum:
+ c1a02021e9edc8e6a7550712f1b01729 1763 Packages
+ a35928f0b601bf18bece59c250e10859 786 Packages.gz
+ 99be3d12af9a7f3817d14c94693d344c 928 Packages.bz2
+ 04adf99e4386983917d5fdefbf855928 876 Packages.xz
+SHA1:
+ 461f88615bf5af089c6ead023985a553f8a344a2 1763 Packages
+ 9d2087547038fd394d17787b864932169a88c889 786 Packages.gz
+ 50a6a62bdacd6c409b81ae144eb15b69ba59da0d 928 Packages.bz2
+ 37c4870f983ecb5993579280e1db1219a8847250 876 Packages.xz
+SHA256:
+ e179f49ba69bc6ded7bc3a5462b7f58fe19b6131eca2237e911060e10487005c 1763 Packages
+ 285b4cb624d12ae7e9e34e22f038333d1b2606f8dde6d012202218f1e5b48b3b 786 Packages.gz
+ a7ab275ad39b10b407d31cf57e8603b744823e91b93a50bd055cab8bbd40bd69 928 Packages.bz2
+ 88bda7b80a38557b52bbef372af6928e891fedc20d200e40d913184ea9c28403 876 Packages.xz

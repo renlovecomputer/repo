@@ -10,7 +10,7 @@ This is my personal repository for jailbreak tweaks published under **renlovecom
 
 Open **Sileo → Sources → +** and add:
 
-`https://renlovecomputer.github.io/repo/`
+`https://renlovecomputer.github.io/My_repository/`
 
 ## Packages
 
