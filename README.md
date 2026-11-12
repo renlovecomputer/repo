@@ -1,4 +1,4 @@
-# My_repository — renlovecomputer's iOS Tweaks
+# Repo — renlovecomputer's iOS Tweaks
 
 ![Repository mascot: dachshund wearing a tie](CydiaIcon.png)
 
@@ -10,7 +10,7 @@ This is my personal repository for jailbreak tweaks published under **renlovecom
 
 Open **Sileo → Sources → +** and add:
 
-`https://renlovecomputer.github.io/My_repository/`
+`https://renlovecomputer.github.io/repo/`
 
 ## Packages
 
